@@ -1,0 +1,6 @@
+main {
+    width: 640px;
+    padding: 1em 1.5em;
+    margin: 33vh auto 0;
+    transform: translateY(-50%);
+}

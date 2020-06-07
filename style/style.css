@@ -3,12 +3,15 @@ body {
 }
 
 .menu-bar {
-
+    background-color: black;
+    color: whitesmoke;
+    height: 1.5em;
 }
 
 .menu-item {
     display: inline;
     margin: auto;
+    bottom: 0;
 }
 
 
