@@ -1,2 +1,2 @@
-# gitjub.io
+# github.io
 My github io
