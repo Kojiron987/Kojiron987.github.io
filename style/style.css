@@ -1,3 +1,17 @@
 body {
     background-color: bisque;
 }
+
+.menu-bar {
+
+}
+
+.menu-item {
+    display: inline;
+    margin: auto;
+}
+
+
+footer {
+    margin-top: auto;
+}
