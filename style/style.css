@@ -1,5 +1,6 @@
 body {
     background-color: bisque;
+    font-family: sans-serif;
 }
 
 .menu-bar {
@@ -14,6 +15,16 @@ body {
     bottom: 0;
 }
 
+
+.icon {
+    width: 20em;
+    
+}
+
+.page-title {
+    font-weight: 550;
+    font-style: italic;
+}
 
 footer {
     margin-top: auto;
